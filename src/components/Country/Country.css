@@ -1,0 +1,20 @@
+.country {
+    border: 2px solid steelblue;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.coat {
+    height: 100px;
+    width: 100px;
+}
+
+.Visited {
+    background-color: bisque;
+    color: black;
+}
+
+.pic {
+    height: 150px;
+}
